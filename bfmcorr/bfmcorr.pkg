@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'bfmcorr': Correcting (Correct) surveys using tax data with the method of Blanchet, Flores and Morgan (2018) Use bfmcorr With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f bfmcorr.ado
+f bfmcorr.sthlp
+f postbfm.ado
+f postbfm.sthlp
