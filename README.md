@@ -1,6 +1,8 @@
 # bfmcorr
 Correcting (Correct) surveys using tax data with the method of Blanchet, Flores and Morgan (2018) Use bfmcorr With STATA 18
 
+https://www.youtube.com/watch?v=chgxGeBETIU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
